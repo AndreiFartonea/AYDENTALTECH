@@ -948,6 +948,19 @@ svg {
     }
 
     .map {
-        width: 400px;        
+        width: 300px;        
+    }
+}
+
+@media (max-width: 390px) {
+    /* Your styles for iPhone 14 */
+    
+
+    nav {
+        max-width: 390px;
+    }
+
+    .testimonials img {
+        width: 300px;
     }
 }
