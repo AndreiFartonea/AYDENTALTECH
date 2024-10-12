@@ -948,7 +948,11 @@ svg {
     }
 
     .map {
-        width: 300px;        
+        width: 250px;        
+    }
+
+    .map-container p {
+        display: none;
     }
 }
 
