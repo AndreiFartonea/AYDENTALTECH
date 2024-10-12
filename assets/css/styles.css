@@ -951,6 +951,10 @@ svg {
         width: 250px;        
     }
 
+    .map-container {
+        margin-top: 30px;
+    }
+
     .map-container p {
         display: none;
     }
