@@ -951,9 +951,7 @@ svg {
         width: 250px;        
     }
 
-    .map-container h3 {
-        margin-top: 30px;
-    }
+    
 
     .map-container p {
         display: none;
@@ -970,5 +968,9 @@ svg {
 
     .testimonials img {
         width: 300px;
+    }
+
+    .map-container h3 {
+        margin-top: 50px;
     }
 }
